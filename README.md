@@ -5,7 +5,7 @@ Aether is a window manager for Linux that uses a canvas system as its core conce
 
 # Status
 Well.. I've finished looking into it. It turned out to be way harder than I expected, so the development is going to be delayed for.. an indefinite period. But I'm starting to actually write the code!
-![FirstTry](IMG_20261104_221001_728.jpg)
+![FirstTry](screenshot.jpg)
 # Roadmap
 There's a lot I want to implement, but for now I'll highlight a few goals, big or small. (The roadmap is subject to change)
 
