@@ -1,0 +1,37 @@
+User-agent: GPTbot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: / 
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extendet
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Applebot-Extendet
+Disallow: /
+
+User-agent: OAI-Search-bot
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+
